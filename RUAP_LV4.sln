@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RUAP_LV4", "RUAP_LV4\RUAP_LV4.csproj", "{09094607-CB21-4A47-8A37-FECC16D3F8FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09094607-CB21-4A47-8A37-FECC16D3F8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09094607-CB21-4A47-8A37-FECC16D3F8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09094607-CB21-4A47-8A37-FECC16D3F8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09094607-CB21-4A47-8A37-FECC16D3F8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B12DF5D-C446-421C-A9F3-79A41356589F}
+	EndGlobalSection
+EndGlobal
